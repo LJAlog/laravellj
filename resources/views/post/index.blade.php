@@ -1,1 +1,1 @@
-Hello POst
+<a href="{{ route('posts,create')}}"></a>href
